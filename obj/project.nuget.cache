@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrtPEdc9QvaPDauuMIaSc+6yvnfH1nIDvM5q2lqDRxu1Sri0jL2A/eaWYmBZYY4AuBmMNuy/2K9B96zI8Fy/8g==",
+  "success": true,
+  "projectFilePath": "D:\\Company Work\\DTMFdecoder\\DTMFdecoder_C#\\DTMFDecoderApp\\DTMF_decoder_c_sharp\\DTMFdecoder_C_sharp\\DTMF_decoder_c_sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\config\\1.0.0\\config.1.0.0.nupkg.sha512",
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\dtmfdetection\\1.2.2\\dtmfdetection.1.2.2.nupkg.sha512",
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\dtmfdetection.naudio\\1.2.2\\dtmfdetection.naudio.1.2.2.nupkg.sha512",
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\system.resources.extensions\\4.7.0\\system.resources.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Vaibhav\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Config 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Config",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
